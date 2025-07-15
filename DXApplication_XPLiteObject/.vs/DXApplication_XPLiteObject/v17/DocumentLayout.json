@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|solutionrelative:dxapplication_xpliteobject.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.module\\businessobjects\\mandant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|solutionrelative:dxapplication_xpliteobject.module\\businessobjects\\mandant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{BA5E528B-774E-C844-C499-4571FB22AFCB}|DXApplication_XPLiteObject.Blazor.Server\\DXApplication_XPLiteObject.Blazor.Server.csproj|solutionrelative:dxapplication_xpliteobject.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|c:\\jakub\\github\\praktyki2025\\xafproject\\dxapplication_xpliteobject\\dxapplication_xpliteobject.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{F8FA82F7-B302-482B-F74D-F9A19112CF5B}|DXApplication_XPLiteObject.Module\\DXApplication_XPLiteObject.Module.csproj|solutionrelative:dxapplication_xpliteobject.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\Program.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Program.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:47:04.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorModule.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\BlazorModule.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\BlazorModule.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\BlazorModule.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\BlazorModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:47:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T17:21:18.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\Module.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Module\\Module.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\Module.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Module\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:13:53.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mandant.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\BusinessObjects\\Mandant.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Module\\BusinessObjects\\Mandant.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\BusinessObjects\\Mandant.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Module\\BusinessObjects\\Mandant.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:58:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.xafml",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Model.xafml",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\Model.xafml",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Model.xafml",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\Model.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-15T17:19:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-15T17:12:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:09:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "DXApplication_XPLiteObject.Blazor.Server\\Startup.cs",
+              "ToolTip": "C:\\JAKUB\\GitHub\\Praktyki2025\\XAFproject\\DXApplication_XPLiteObject\\DXApplication_XPLiteObject.Blazor.Server\\Startup.cs",
+              "RelativeToolTip": "DXApplication_XPLiteObject.Blazor.Server\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:58:30.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
